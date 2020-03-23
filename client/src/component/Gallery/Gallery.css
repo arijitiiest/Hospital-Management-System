@@ -1,0 +1,24 @@
+.head{
+  
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    
+  }
+
+  .amber-darken-3{
+    background-color: #ff8f00;
+    background-size: contain;
+}
+
+.orange-lighten-3{
+    background-color: #ffcc80;
+}
+
+.amber-darken-3{
+    background-color: #ff8f00;
+    background-size: contain;
+}
+
+ .amber-lighten-4{
+    background-color:#ffecb3
+ }

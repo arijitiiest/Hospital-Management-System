@@ -1,0 +1,19 @@
+.color_navber {
+    color: #5162dd;
+}
+
+.light-green darken-1{
+    color:#7cb342 ;
+}
+
+.navbar {
+    width: 100%;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    transition: top 0.6s;
+  }
+  
+  .navbar--hidden {
+    top: -50px;
+  }
